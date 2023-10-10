@@ -1,6 +1,7 @@
 # Esto es un título H1
 ## Esto es un título H2
 ### Esto es un título H3
+### Esto es otro título H3
 
 Esto es un texto descriptivo **texto negrita**  **texto personalizado**
 
